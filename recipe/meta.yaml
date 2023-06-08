@@ -43,6 +43,9 @@ about:
   license_family: MIT
   license_file: LICENSE
   summary: MGRS coordinate conversion for Python
+  description: |
+    GeoTrans provides C code for converting to and from MGRS, but well, it’s C code.
+    This is a simple ctypes wrapper around two of the MGRS-related functions in GeoTrans.
   dev_url: https://github.com/hobu/mgrs
   doc_url: https://github.com/hobuinc/mgrs/blob/main/README.rst
 
