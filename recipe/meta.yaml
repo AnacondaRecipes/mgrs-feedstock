@@ -44,6 +44,7 @@ about:
   license_file: LICENSE
   summary: MGRS coordinate conversion for Python
   dev_url: https://github.com/hobu/mgrs
+  doc_url: https://github.com/hobuinc/mgrs/blob/main/README.rst
 
 extra:
   recipe-maintainers:
